@@ -1,4 +1,4 @@
-openHealth
+Jonas Almeida
 ==========
 
-web computing for open health data
+[My](http://jonasalmeida.info) public page & miscelaneous at [Biomedical Informatics](bmi.stonybrookmedicine.edu/people) / Stony Brook University.
